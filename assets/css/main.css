@@ -2380,7 +2380,7 @@ input, select, textarea {
     		height: 318px;
     		object-fit: cover;
     		display: block;
-			border: 5px solid #000;
+			border: 3px solid #999;
 		}
 
 		.image.left, .image.right {
@@ -3792,5 +3792,6 @@ input, select, textarea {
 			}
 
 		}
+
 
 
